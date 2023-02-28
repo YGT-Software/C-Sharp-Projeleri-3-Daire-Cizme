@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\bin\Debug\net7.0\C# Projeleri  Daire Çizme.exe
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\bin\Debug\net7.0\C# Projeleri  Daire Çizme.deps.json
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\bin\Debug\net7.0\C# Projeleri  Daire Çizme.runtimeconfig.json
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\bin\Debug\net7.0\C# Projeleri  Daire Çizme.dll
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\bin\Debug\net7.0\C# Projeleri  Daire Çizme.pdb
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\obj\Debug\net7.0\C# Projeleri  Daire Çizme.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\obj\Debug\net7.0\C# Projeleri  Daire Çizme.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\obj\Debug\net7.0\C# Projeleri  Daire Çizme.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\obj\Debug\net7.0\C# Projeleri  Daire Çizme.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\obj\Debug\net7.0\C# Projeleri  Daire Çizme.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\obj\Debug\net7.0\C# Projeleri  Daire Çizme.dll
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\obj\Debug\net7.0\refint\C# Projeleri  Daire Çizme.dll
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\obj\Debug\net7.0\C# Projeleri  Daire Çizme.pdb
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\obj\Debug\net7.0\C# Projeleri  Daire Çizme.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C# Projeleri  Daire Çizme\obj\Debug\net7.0\ref\C# Projeleri  Daire Çizme.dll
